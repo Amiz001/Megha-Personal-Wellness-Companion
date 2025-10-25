@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brand Colors -->
+    <color name="colorPrimary">#b0fb30</color>
+    <color name="colorPrimaryVariant">#4e55e0</color>
+    <color name="colorSecondary">#FFFFFF</color>
+    <color name="colorSecondaryVariant">#b9eb6d</color>
+    <color name="colorAccent">#2e7d32</color>
+    <color name="colorAccentVariant">#000000</color>
+    <color name="errorRed">#F44336</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#F5F6FA</color>
+    <color name="colorCard">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#666666</color>
+    <color name="textAccent">#FFFFFF</color>
+
+</resources>
+
+

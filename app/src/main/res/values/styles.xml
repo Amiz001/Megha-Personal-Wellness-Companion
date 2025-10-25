@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavLabelStyle" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">16sp</item>  <!-- Change size -->
+        <item name="android:textStyle">bold</item> <!-- Optional -->
+    </style>
+
+    <style name="CustomAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="android:background">@drawable/rounded_card_bg</item>
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+    </style>
+
+</resources>

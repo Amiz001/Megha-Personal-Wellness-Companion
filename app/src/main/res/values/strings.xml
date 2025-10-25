@@ -1,0 +1,44 @@
+
+<resources>
+    <string name="app_name">Megha</string>
+    <string name="app_tagline">Make your day better</string>
+
+    <string name="hello_blank_fragment">HI There</string>
+
+    <string name="habit1">Sleeping</string>
+    <string name="habit12">Steps</string>
+    <string name="habit3">Exercising</string>
+    <string name="habit4">Drink water</string>
+    <string name="habit5">Yoga</string>
+    <string name="habit6">Coding</string>
+
+    <string name="sadMood">Sad</string>
+    <string name="unhappyMood">Unhappy</string>
+    <string name="normalMood">Normal</string>
+    <string name="goodMood">Good</string>
+    <string name="happyMood">Happy</string>
+
+    <string name="Title1">Your mood journal</string>
+    <string name="Title2">How do u feel Today?</string>
+    <string name="Title3">Mood Trend</string>
+    <string name="Title4">Settings</string>
+    <string name="Title5">Set Reminder Interval</string>
+
+    <string name="subTitle1">Hydration Reminder</string>
+    <string name="subTitle2">Export and Share</string>
+    <string name="subTitle3">Data Management</string>
+
+    <string-array name="interval_options">
+        <item>Off</item>
+        <item>Every 1 hour</item>
+        <item>Every 2 hours</item>
+        <item>Every 3 hours</item>
+        <item>Every 4 hours</item>
+        <item>Every 5 hours</item>
+        <item>Every 6 hours</item>
+        <item>Every 8 hours</item>
+    </string-array>
+
+
+</resources>
+
